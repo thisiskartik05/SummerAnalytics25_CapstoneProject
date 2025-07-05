@@ -1,5 +1,8 @@
 # SummerAnalytics25_CapstoneProject
 
+[Open in Google Colab]([https://colab.research.google.com/github/your-username/your-repo/blob/main/your_notebook.ipynb](https://colab.research.google.com/drive/1g2rIrmHVy-cyw6pD2q-fIciXte6aLc95?usp=sharing))
+
+
 # Dynamic Parking Pricing System
 
 A real-time simulation of smart parking pricing across multiple lots using streaming data and adaptive pricing models.
