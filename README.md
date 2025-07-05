@@ -6,9 +6,9 @@ A real-time simulation of smart parking pricing across multiple lots using strea
 
 This project compares three models:
 
-- 📉 Model 1: Linear Pricing based on Occupancy
-- 📊 Model 2: Multi-Factor Demand-Based Pricing
-- 📍 Model 3: Competitor-Aware Pricing using Geographic Proximity
+- Model 1: Linear Pricing based on Occupancy
+- Model 2: Multi-Factor Demand-Based Pricing
+- Model 3: Competitor-Aware Pricing using Geographic Proximity
 
 The system is built for a capstone submission under Summer Analytics, integrating real-time data processing with rich visual analytics.
 
@@ -18,11 +18,11 @@ The system is built for a capstone submission under Summer Analytics, integratin
 
 | Layer            | Tools / Frameworks                                  |
 |------------------|-----------------------------------------------------|
-| Data Streaming   | 🛠️ Pathway (real-time stream processor)              |
-| Data Analysis    | 🐍 Python, Pandas, NumPy                             |
-| Visualization    | 📈 Bokeh, Matplotlib                                 |
-| Geo Computation  | 🗺️ Haversine Formula (for geo-aware pricing)         |
-| Packaging        | 📦 LaTeX (for report), JSON (for nearby map cache)  |
+| Data Streaming   | Pathway (real-time stream processor)                |
+| Data Analysis    | Python, Pandas, NumPy                               |
+| Visualization    | Bokeh, Matplotlib                                   |
+| Geo Computation  | Haversine Formula (for geo-aware pricing)           |
+| Packaging        | LaTeX (for report), JSON (for nearby map cache)     |
 
 ---
 
