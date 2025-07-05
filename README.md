@@ -1,6 +1,8 @@
 # SummerAnalytics25_CapstoneProject
 
 [Open in Google Colab](https://colab.research.google.com/drive/1g2rIrmHVy-cyw6pD2q-fIciXte6aLc95?usp=sharing)
+
+<br>
 [Capstone Project Report](SA_Capstone_Report.pdf)
 
 # Dynamic Parking Pricing System
